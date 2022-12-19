@@ -1,7 +1,7 @@
 # Landing page KFC 🎯
 
 ## Ejemplo en vivo
-- [[URL-de-github-pages-de-este-proyecto](https://arturorodriguezf5.github.io/Landing-KFC/)](URL-de-github-pages-de-este-proyecto)
+- [https://arturorodriguezf5.github.io/Landing-KFC/](URL-de-github-pages-de-este-proyecto)
 
 ## Descripción 📑
 
